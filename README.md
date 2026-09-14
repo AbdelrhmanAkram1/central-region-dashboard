@@ -21,3 +21,4 @@ Power BI (Power Query for data cleaning, DAX for calculated measures, interactiv
 
 ## How to view it
 Download the `.pbix` file and open it in Power BI Desktop (free, Windows only) to interact with the filters and drill-throughs.
+Or via link for interactive https://app.powerbi.com/groups/me/reports/7661528d-5ee3-408a-8035-c61ba403e41c/5e73a4133a620201ad0f?experience=power-bi
